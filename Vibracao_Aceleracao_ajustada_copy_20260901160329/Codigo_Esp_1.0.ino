@@ -11,8 +11,8 @@
 // CONFIGURAÇÃO DO WI-FI
 // ============================================================
 
-const char* ssid = "Carlos Ara_EXT";
-const char* password = "OLI24130";
+const char* ssid = "Wi-fi";
+const char* password = "Senha";
 
 // ============================================================
 // LOGIN DO PAINEL WEB
