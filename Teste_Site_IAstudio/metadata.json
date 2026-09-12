@@ -1,0 +1,9 @@
+{
+  "name": "Industrial Safety Monitor",
+  "description": "Real-time IoT dashboard for monitoring employee safety via smart helmets, featuring GPS tracking, impact detection, and live video.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
